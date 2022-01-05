@@ -1,0 +1,7 @@
+-- import: fpm
+
+-- fpm.package: fifthtry.github.io/Green-theme/
+zip: github.com/fifthtry/fpm.dev/archive/refs/heads/main.zip
+
+-- fpm.ignore: *.sh
+-- fpm.ignore: bin
