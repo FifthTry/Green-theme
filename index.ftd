@@ -34,7 +34,7 @@ size: 46
 line-height: 46
 region: h0
 color: $neutral
-color if $fpm-ui.dark-mode: $neutral-800
+color if $ftd.dark-mode: $neutral-800
 style: bold
 padding-bottom: 24
 font: apple-system
@@ -98,7 +98,7 @@ text: $body
 size: 15
 line-height: 24
 color: $neutral-700
-color if $fpm-ui.dark-mode: $neutral-200
+color if $ftd.dark-mode: $neutral-200
 padding-bottom: 8
 font: apple-system
 
